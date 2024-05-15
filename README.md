@@ -29,7 +29,7 @@ Process the data and load it into Data lake to be ready for further analysis usi
 - Explore the dataset and ask questions to give a better understanding of the data provided to you.
 - Use data visualization to answer these questions.
 ![Percentage of the gender joined](asstes/1.png)
-The Percentage of gender joined the Olympics 
+Example:The Percentage of gender joined the Olympics 
 ### 4- Data Cleaning:
 - Observe missing data, and data missing strategy(MCAR, MAR, or MNAR).
 - Observe duplicate data.
