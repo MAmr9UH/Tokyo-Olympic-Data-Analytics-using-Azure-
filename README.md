@@ -28,7 +28,7 @@ Process the data and load it into Data lake to be ready for further analysis usi
 - Load the dataset.
 - Explore the dataset and ask questions to give a better understanding of the data provided to you.
 - Use data visualization to answer these questions.
-
+![Percentage of the gender joined](asstes/1.png)
 ### 4- Data Cleaning:
 - Observe missing data, and data missing strategy(MCAR, MAR, or MNAR).
 - Observe duplicate data.
@@ -44,4 +44,4 @@ Process the data and load it into Data lake to be ready for further analysis usi
 ### 6- Data Loading:
 - load the data after cleaning and transformation (preprocessing) again into Data Lake which is ready for Further analytics.
 
-![]()
+
