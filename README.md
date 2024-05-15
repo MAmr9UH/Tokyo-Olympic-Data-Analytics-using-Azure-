@@ -43,3 +43,5 @@ Process the data and load it into Data lake to be ready for further analysis usi
 
 ### 6- Data Loading:
 - load the data after cleaning and transformation (preprocessing) again into Data Lake which is ready for Further analytics.
+
+![]()
