@@ -1,4 +1,4 @@
-# Olympic-Data-Analytics-Using-Azure
+# Olympic-Data-Analytics-Using-Azure ETL
 
 ## Abstract
 The objective of this project is to build a ETL-pipeline using azure data factory to extract data from source to data lake for cleaning and transformation using 
